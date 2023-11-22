@@ -25,7 +25,7 @@ This comparative analysis explores three prominent tools—Minikube, Kind, and k
 
 ### Minikube
 
-![Image](./images/minikube.gif)
+![Image](../.data/minikube.gif)
 
 #### Example Commands:
 
@@ -101,7 +101,7 @@ minikube config view
 These are some of the basic commands to get you started with Minikube. Refer to the official [Minikube documentation](https://minikube.sigs.k8s.io/docs/start/) for more detailed information and advanced usage.
 ### Kind
 
-![Kind Image](./images/kind.gif)
+![Kind Image](../.data/kind.gif)
 
 #### Example Commands:
 
@@ -151,7 +151,7 @@ Kind supports various configuration options. To view and customize them, refer t
 
 ### k3d
 
-![k3d Image](./images/k3d.gif)
+![k3d Image](../.data/k3d.gif)
 
 #### Example Commands:
 
