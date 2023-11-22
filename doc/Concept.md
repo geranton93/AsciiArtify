@@ -13,9 +13,15 @@ This comparative analysis explores three prominent tools—Minikube, Kind, and k
 
 ## Demonstration
 
-- [Minikube Asciinema](https://asciinema.org/a/WiRCZzjAZqsg9SUOtBRtg11RS)
-- [Kind Asciinema](https://asciinema.org/a/2bWGVn3zJvwhv7Y0q65w2F261)
-- [k3d Asciinema](https://asciinema.org/a/dnME3PYWvcq9SXggP9bk0E7qz)
+### Minikube
+
+![Image](./images/minikube.gif)
+### Kind
+
+![Image](./images/kind.gif)
+### k3d
+
+![Image](./images/k3d.gif)
 
 ## Conclusions
 
