@@ -11,11 +11,3 @@ Welcome to the AsciiArtify project! This repository contains the documentation a
 ## Getting Started
 
 To get started, follow the documentation in the respective files linked above.
-
-## Contributing
-
-If you'd like to contribute to the development of AsciiArtify, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
